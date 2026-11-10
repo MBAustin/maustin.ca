@@ -7,6 +7,12 @@
 //   note  - optional; a short line shown under the title
 
 window.RECORDINGS = [
-  { title: "Example Poem", file: "audio/example.mp3", note: "A short line about this one" },
-  { title: "Another Poem", file: "audio/another.mp3" },
+  { title: "Alpine Limpets", file: "audio/Alpine Limpets.m4a" },
+  { title: "Core Sample", file: "audio/Core Sample.m4a" },
+  { title: "To An Ammonite", file: "audio/To An Ammonite.m4a" },
+  { title: "Elegy for a Collapsing Star", file: "audio/Elegy For A Collapsing Star.m4a" },
+  { title: "Sea Glass", file: "audio/Sea Glass.m4a" },
+  { title: "Pyroclastic Flow", file: "audio/Pyroclastic Flow.m4a" },
+  { title: "Thank You for Walking With Me", file: "audio/Thank You For Walking With Me.m4a" },
+  { title: "What We Take From the Sea", file: "audio/What We Take From the Sea.m4a" },
 ];
