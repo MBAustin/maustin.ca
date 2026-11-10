@@ -264,7 +264,7 @@
           items.push({ li: li, head: head, panel: panel, btn: btn, seek: seek, cur: cur, total: total });
 
           head.addEventListener('click', function () {
-            if (i === current) close(); else open(i);
+            if (i === current) close(); else { open(i); toggle(); }
           });
           btn.addEventListener('click', toggle);
           seek.addEventListener('input', function () {
